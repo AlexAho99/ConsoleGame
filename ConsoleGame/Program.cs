@@ -8,6 +8,12 @@ namespace ConsoleGame
 {
     class Program
     {
+        /// <summary>
+        /// 
+        /// Ett spel (Syns inte i MonoGame)
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Initialize();
